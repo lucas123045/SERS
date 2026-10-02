@@ -1,10 +1,9 @@
-INTEGRANTES
-Lucas klein da veiga RM570029
-Gustavo Melo dos Santos RM573562
-João Victor Canello Ferian
-RM573295
-João Pedro costenari Silva
-RM572260
+| Integrante | RM |
+|---|---|
+| João Victor Canello Ferian | RM573295 |
+| Gustavo Melo dos Santos | RM573562 |
+| João Pedro Costenari Silva | RM572260 |
+| Lucas Klein | RM570029 |
 
 # APIs de energia renovável e aprendizado de máquina
 

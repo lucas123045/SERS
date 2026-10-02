@@ -1,4 +1,0 @@
-Modelo,Accuracy,Precision (macro),Recall (macro),F1 (macro)
-KNN (k=15),0.95,0.95,0.947,0.948
-Regressão Logística,0.839,0.857,0.834,0.834
-Random Forest,0.977,0.978,0.976,0.977

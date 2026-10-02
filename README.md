@@ -1,3 +1,11 @@
+INTEGRANTES
+Lucas klein da veiga RM570029
+Gustavo Melo dos Santos RM573562
+João Victor Canello Ferian
+RM573295
+João Pedro costenari Silva
+RM572260
+
 # APIs de energia renovável e aprendizado de máquina
 
 Avaliação (Checkpoint 02) — consulta a duas APIs públicas, preparação dos dados e comparação de **três algoritmos** em cada uma de **duas tarefas**:
